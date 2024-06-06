@@ -2,7 +2,7 @@
 
 
 ### Dataset
-The dataset can be downloaded from [here](https://drive.ugr.es/index.php/s/I8BKFvpVQtVdYZ5)
+The dataset can be downloaded from [here](https://drive.ugr.es/index.php/s/I8BKFvpVQtVdYZ5). The dataset was built in May 2024. We collect the information of every author from Web of Science.
 
 ### Source
 * search_similarity_author_journal generates different files. Between them, we note:
