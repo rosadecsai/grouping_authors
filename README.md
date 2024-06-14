@@ -11,6 +11,7 @@ The dataset can be downloaded from [here](https://drive.ugr.es/index.php/s/I8BKF
 *  get_max_min_similarity gets the more and less similar author to an input author.
 
 ### Authors
-García, J.A (jags@decsai.ugr.es), Rodriguez-Sanchez, Rosa (rosa@decsai.ugr.es) and Fdez-Valdivia, J (jfv@decssai.ugr.es)\\ 
+García, J.A (jags@decsai.ugr.es), Rodriguez-Sanchez, Rosa (rosa@decsai.ugr.es) and Fdez-Valdivia, J (jfv@decssai.ugr.es)
+
 University of Granada
   
