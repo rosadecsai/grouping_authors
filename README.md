@@ -1,4 +1,4 @@
-## The grouping of scholars who belong to the same invisible college using journal coupling
+## The grouping of authors into invisible colleges using journal coupling
 
 
 ### Dataset
