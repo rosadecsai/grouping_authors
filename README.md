@@ -10,6 +10,7 @@ The dataset can be downloaded from [here](https://drive.ugr.es/index.php/s/I8BKF
   *  Show the dendrogram image. For every cluster, create two sets of files Author_ClusAll_<n>.txt, which stores the author within the cluster. Also, it creates the clus_<n>.txt with the journal and weight by cluster
 *  get_max_min_similarity gets the more and less similar author to an input author.
 
-García, J.A (jags@decsai.ugr.es), Rodriguez-Sanchez, Rosa (rosa@decsai.ugr.es) and Fdez-Valdivia, J (jfv@decssai.ugr.es) 
+### Authors
+García, J.A (jags@decsai.ugr.es), Rodriguez-Sanchez, Rosa (rosa@decsai.ugr.es) and Fdez-Valdivia, J (jfv@decssai.ugr.es)\\ 
 University of Granada
   
