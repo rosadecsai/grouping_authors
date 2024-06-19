@@ -1,4 +1,4 @@
-## The grouping of authors into invisible colleges using journal coupling
+## Mapping authors based on the shared academic journals: IS&LS authors as a case study
 
 
 ### Dataset
